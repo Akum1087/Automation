@@ -10,6 +10,7 @@ public class AppTest
 	{
 		System.out.print("Hello world");
 		System.out.print("Hello world2");
+		System.out.print("Conflicts obsraojol");
 		System.out.print("Hello world3");
 		System.out.print("Hello world4");
 		System.out.print("Bye Bye world");
